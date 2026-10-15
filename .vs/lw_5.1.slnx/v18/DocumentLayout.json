@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Student\\lw_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|D:\\Student\\lw_5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A25B775-6D0C-45C8-95C2-3E1C4DDE2F98}|lw_5.1\\lw_5.1.vcxproj|D:\\Student\\lw_5.1\\lw_5.1\\lw_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A25B775-6D0C-45C8-95C2-3E1C4DDE2F98}|lw_5.1\\lw_5.1.vcxproj|solutionrelative:lw_5.1\\lw_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Student\\lw_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Student\\lw_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T06:33:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lw_5.1.cpp",
               "DocumentMoniker": "D:\\Student\\lw_5.1\\lw_5.1\\lw_5.1.cpp",
               "RelativeDocumentMoniker": "lw_5.1\\lw_5.1.cpp",
@@ -30,8 +51,7 @@
               "RelativeToolTip": "lw_5.1\\lw_5.1.cpp",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-14T21:12:25.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T21:12:25.283Z"
             }
           ]
         }
